@@ -1,7 +1,7 @@
 ---
 title: 'Stuff'
 date: 2023-02-04T22:08:41Z
-draft: true
+draft: false
 ---
 
-flkjwklfwek
+# Stuff and Things
