@@ -251,3 +251,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0g .related-posts li a:hover {
   color: #059669;
 }
+
+/* Teal */
+.theme-base-0h .sidebar {
+  background-color: #1e272e;
+}
+.theme-base-0h .content a,
+.theme-base-0h .related-posts li a:hover {
+  color: #1e272e;
+}

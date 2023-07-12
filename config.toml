@@ -5,8 +5,8 @@ title = 'tvivl'
 disqusShortname = 'tvivl'
 [params]
   description = "Learnings from adventures in software development."
-  layoutReverse = true
-  themeColor = "theme-base-0g"
+  layoutReverse = false
+  themeColor = "theme-base-0h"
 [Menus]
   main = [
       {Name = "linkedin", URL = "https://www.linkedin.com/in/rob-amos-9a7a7a130/"},
