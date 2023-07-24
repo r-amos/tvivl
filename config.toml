@@ -4,7 +4,7 @@ theme = 'hyde'
 title = 'tvivl'
 disqusShortname = 'tvivl'
 [params]
-  description = "Learnings from adventures in software development."
+  description = "Learnings from side quests in software development."
   layoutReverse = false
   themeColor = "theme-base-0h"
 [Menus]
